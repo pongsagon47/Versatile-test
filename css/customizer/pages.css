@@ -253,3 +253,8 @@
     padding-bottom: 0;
   }
 }
+#our-services .nav > li > a:hover, .nav > li > a:focus {
+	color: #F80404;
+	text-decoration: none;
+ 	background-color: #eeeeee;
+}
